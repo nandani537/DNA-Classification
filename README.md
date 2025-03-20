@@ -96,3 +96,37 @@ Ensure you have the following installed:
   ```bash
   pip install numpy pandas matplotlib seaborn scikit-learn
 
+### Running the Notebook
+## 1️⃣ Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-repo/dna-classification.git
+cd dna-classification
+## 2️⃣ Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+## 3️⃣ Open and run the Jupyter Notebook:
+
+bash
+Copy
+Edit
+jupyter notebook dna_classification.ipynb
+📈 Visualizations
+📌 Class Distribution (Promoters vs. Non-Promoters)
+
+## 📌 Model Accuracy Comparison (Boxplot)
+
+## 🎯 Conclusion
+Machine Learning can effectively classify DNA promoter sequences.
+SVM (Linear Kernel) achieved the highest accuracy (96%), making it the best model for classification.
+This project provides insights into bioinformatics applications of machine learning.
+🚀 Future Improvements
+🔹 Use Deep Learning (LSTMs or CNNs) for sequence classification.
+🔹 Explore feature selection techniques for better model performance.
+🔹 Expand dataset for more diverse DNA sequences.
+

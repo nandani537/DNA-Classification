@@ -99,9 +99,6 @@ Ensure you have the following installed:
 ### Running the Notebook
 ## 1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-repo/dna-classification.git
 cd dna-classification
 ## 2️⃣ Install dependencies:

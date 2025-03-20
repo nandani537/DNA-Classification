@@ -1,4 +1,3 @@
-README.md
 # **DNA Classification Using Machine Learning**
 
 ## 📌 Overview
